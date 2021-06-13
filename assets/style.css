@@ -1,0 +1,25 @@
+
+  .HeadMon{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 22px;
+    color: black;
+ }
+
+ .pledgeText{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: green;
+ }
+
+ .footerText{
+   font-family: 'Roboto', sans-serif;
+   font-size: 14px;
+   
+
+ }
+
+ .footerText span{
+   color: white;
+ }
